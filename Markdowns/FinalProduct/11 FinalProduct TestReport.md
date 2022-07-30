@@ -1,15 +1,41 @@
-# Test report  
+# Software Test report  
 
-## Testing performed
 
-*This section should describe your test plans, and results.*
 
-*Every test should have a clear goal so that pass/fail can be indicated against all tests actually performed.*
+## Menu Button interface testing
 
-*For some tests, it is a good idea to use screenshots of target and actual results.*
+*To Ensure the button are working*
 
-*You should research testing to set your testing within the known methodologies.*
+*(Date Conducted: 30/7/2022 Software Version 1.1)*
 
+*Performed on device: HP & Razer*
+
+*Performed on OS: Windows 10, Windows 11*
+
+*Performed on source-code editor: VSC, Spyders*
+
+*Error or Bugs: None*
+
+*Remarks: Code works as intended.*
+
+
+## Sudoku Solver testing
+
+*(Date Conducted: 30/7/2022 Software Version 1.1)*
+
+*Performed on device: HP, Razer*
+
+*Performed on OS: Windows 10, Windows 11*
+
+*Performed on source-code editor: VSC, Spyders*
+
+*Error or Bugs: None*
+
+*Time taken to solve easy difficulty:Approximately 1 minutes*
+
+*Time taken to solve Medium difficulty:Approximately 3 minutes*
+
+*Time taken to solve Hard difficulty:Approximately 15 minutes*
 
 
 ## Automatic Testing:
