@@ -19,16 +19,6 @@ Task: MVP documentation and testing
 * Documentation of the markdown files, confluence and ensure JIRA cleanliness   
 * Testing and fixing of codes after further integration
 
-### Sprint 4:
-Task: Final product documentation and testing
-* Documentation of the markdown files, confluence and ensure JIRA cleanliness
-* Testing and fixing of codes after further integration
-
-### Sprint 5:
-Task: Prepare for final review and showcase
-* Resolve all integration bugs
-* Prepare deck for presentation
-
 ## Ong Li Zhen
 
 ### Sprint 1:
@@ -43,6 +33,8 @@ Task: Generate level button
 *  create and combine level button to existing leveling function code
 
 ### Sprint 3:
+Task: Resolve bugs in generating sudoku function
+*  Worked on bugs found during testing
 
 ## Jason Haw
 
@@ -58,6 +50,8 @@ Task: Increase/decrease difficulty function
 *  Then that number will be used as a base count for the script to generate the numbers of cells In a soduku
 
 ### Sprint 3:
+Task: Graphics for Sudoku
+*  Generate the graphic and solver for the Sudoku
 
 ## Wilson Low
 
@@ -70,6 +64,8 @@ Task: Analysis Graph
 *  Import matplot libraries to plot a graphical chart, include the function in the report generate button, indicating the time taken for solver in each difficulty.
 
 ### Sprint 3:
+Task: Designing data points for analysis
+*  Added data points to be collected within the solver function to retrieve data
 
 ## Yap Choo Kiat
 
@@ -84,3 +80,5 @@ Task: Home page button
 *  By using pygame module, draw a box to represent the button and put text inside the box. Then detect and capture mouse cursor motion and make a if statement when the cursor pressed the box.
 
 ### Sprint 3:
+Task:
+*  Added splash page to navigate to main menu
