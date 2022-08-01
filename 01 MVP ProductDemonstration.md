@@ -5,13 +5,13 @@ In this MVP, we have built a functional Sudoku game that solves it self with a m
 ## Consecutive Screenshots ##
 
 Screen 1
-<img src="images/Screen1.png" alt="sprint 1 burndown" />
+<img src="images/Screen1.PNG" alt="SCREEN1" />
 Screen 2
-<img src="images/Screen2.png" alt="sprint 2 burndown" />
+<img src="images/Screen2.png" alt="SCREEN2" />
 Screen 3
-<img src="images/Screen3.png" alt="sprint 3 burndown" />
+<img src="images/Screen3.PNG" alt="SCREEN3" />
 Screen 4
-<img src="images/Screen4.png" alt="sprint 4 burndown" />
+<img src="images/Screen4.PNG" alt="SCREEN4" />
 
 ## Proud Moments ##
 

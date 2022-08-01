@@ -18,15 +18,15 @@
 ## Sprint Burndown Charts
 
 Sprint 1
-<img src="images/Sprint 1 Burndown.png" alt="sprint 1 burndown" />
+<img src="images/Sprint 1 Burndown.PNG" alt="sprint 1 burndown" />
 Sprint 2
-<img src="images/Sprint 2 Burndown.png" alt="sprint 2 burndown" />
+<img src="images/Sprint 2 Burndown.PNG" alt="sprint 2 burndown" />
 Sprint 3
-<img src="images/Sprint 3 Burndown.png" alt="sprint 3 burndown" />
+<img src="images/Sprint 3 Burndown.PNG" alt="sprint 3 burndown" />
 Sprint 4
-<img src="images/Sprint 4 Burndown.png" alt="sprint 4 burndown" />
+<img src="images/Sprint 4 Burndown.PNG" alt="sprint 4 burndown" />
 Sprint 5
-<img src="images/Sprint 5 Burndown.png" alt="sprint 5 burndown" />
+<img src="images/Sprint 5 Burndown.PNG" alt="sprint 5 burndown" />
 
 ## Burndown-Charts Discussion
 *Add a discussion of what the burndown charts indicate, and how your team might improve their velocity / estimation ability in future sprints.*
@@ -36,7 +36,7 @@ Sprint 5
 ## Product Backlog
 *Include here a screenshot of your current product backlog.*
 
-<img src="images/Current Backlog 29 July 2022.png" alt="Current Backlog 22 July 2022" />
+<img src="images/Current Backlog 29 July 2022.PNG" alt="Current Backlog 22 July 2022" />
 
 ## Other Areas
 *If your team has anything else they want to demonstrate, e.g. advanced project management tools, reporting graphs with suitable explanation and interpretation, advanced use of Jira (e.g. issue links, epics, versions), or continuous integration tools, then include a summary here.*
