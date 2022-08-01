@@ -26,7 +26,7 @@ Sprint 3
 Sprint 4
 <img src="images/Sprint 4 Burndown.PNG" alt="sprint 4 burndown" />
 Sprint 5
-<img src="images/Sprint 5 Burndown.PNG" alt="sprint 5 burndown" />
+<img src="images/Sprint 5 Burndown.PNG" alt="sprint 5 burndown" /> 
 
 ## Burndown-Charts Discussion
 *Add a discussion of what the burndown charts indicate, and how your team might improve their velocity / estimation ability in future sprints.*

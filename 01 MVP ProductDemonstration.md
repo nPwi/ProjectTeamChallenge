@@ -11,7 +11,7 @@ Screen 2
 Screen 3
 <img src="images/Screen3.PNG" alt="SCREEN3" />
 Screen 4
-<img src="images/Screen4.PNG" alt="SCREEN4" />
+<img src="images/Screen4.PNG" alt="SCREEN4" /> 
 
 ## Proud Moments ##
 
