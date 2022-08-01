@@ -18,7 +18,7 @@
 ## Sprint Burndown Charts
 
 Sprint 1
-<img src="images/Sprint 1 Burndown.PNG" alt="sprint 1 burndown" />
+<img src="images/Sprint 1 Burndown.PNG" alt="sprint 1 burndown" /> 
 Sprint 2
 <img src="images/Sprint 2 Burndown.PNG" alt="sprint 2 burndown" />
 Sprint 3

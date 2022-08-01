@@ -5,7 +5,7 @@ In this MVP, we have built a functional Sudoku game that solves it self with a m
 ## Consecutive Screenshots ##
 
 Screen 1
-<img src="images/Screen1.PNG" alt="SCREEN1" />
+<img src="images/Screen1.PNG" alt="SCREEN1" /> 
 Screen 2
 <img src="images/Screen2.png" alt="SCREEN2" />
 Screen 3

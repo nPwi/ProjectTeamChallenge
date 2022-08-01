@@ -16,7 +16,7 @@ Task: Code Integration
 
 ### Sprint 3:
 Task: MVP documentation and testing
-* Documentation of the markdown files, confluence and ensure JIRA cleanliness
+* Documentation of the markdown files, confluence and ensure JIRA cleanliness 
 * Testing and fixing of codes after further integration
 
 ### Sprint 4:
