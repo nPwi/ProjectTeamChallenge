@@ -19,7 +19,7 @@
 
 Sprint 1
 
-<img src="images/Sprint 1 Burndown.png" alt="sprint 1 burndown" />
+<img src="images/S1 BD.PNG" alt="sprint 1 burndown" />
 
 Sprint 2
 
