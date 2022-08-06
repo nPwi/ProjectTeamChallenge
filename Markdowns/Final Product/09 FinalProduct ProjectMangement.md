@@ -33,10 +33,16 @@ Sprint 5
 
 - We all agreed that we are a very young team which lack maturity in the Scrum agile space. We were a little caught up in the beginning with all the chao and was not able to tie down on stable velocity. Only after the 2nd sprint, we started to understand the storypoints and were able to normalize the speed and points.
 
+- We have observed that our guideline vs actual storypoints were having a waterfall at the end of each sprint due to the individual backlog being 1 big item per sprint. We would have been able to have a better insight on the burndown chart if each member took on 3-5 sprint items per sprint and the guideline vs actual would then be able to provide us a better forecast and storytell into improving.
+
 ## Product Backlog
 *Include here a screenshot of your current product backlog.*
 
-<img src="images/Current Backlog 29 July 2022.png" alt="Current Backlog 22 July 2022" />
+<img src="images/Current Backlog 6 Aug 2022.PNG" alt="Current Backlog 22 July 2022" />
+
+- All backlog have been completed and closed off. We are ready for final product release. We are looking forward to gathering feedbacks from the stakeholders and market to continuously improve our product.
 
 ## Other Areas
 *If your team has anything else they want to demonstrate, e.g. advanced project management tools, reporting graphs with suitable explanation and interpretation, advanced use of Jira (e.g. issue links, epics, versions), or continuous integration tools, then include a summary here.*
+- The team have used GitHub to continuously integrate and deploy during the sprint phrases. We have had some issues getting everyone to work through different branches before committing but were able to align well after the 3rd sprint. 
+- We have also used Confluence on JIRA to store critical project information as a wiki page for all members to be updated and collaborate as and when additional details or requirements are flagged out.
